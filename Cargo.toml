@@ -1,0 +1,13 @@
+[package]
+name = "hello-world"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gstd = { git = "https://github.com/gear-tech/gear", tag = "v1.1.0" }
+
+[build-dependencies]
+gear-wasm-builder = { git = "https://github.com/gear-tech/gear", tag = "v1.1.0" }
+
+[dev-dependencies]
+gtest = { git = "https://github.com/gear-tech/gear", tag = "v1.1.0"   }
