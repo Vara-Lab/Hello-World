@@ -104,16 +104,27 @@ Welcome to the tutorial on deploying your first "Hello World" program on Vara Ne
     cargo build --release
     ```
 
-14. Once the compilation is complete, locate the `hello-world.opt.wasm` file in the `target/wasm32-unknown-unknown/release` directory.
+Once the compilation is complete, locate the `hello-world.opt.wasm` file in the `target/wasm32-unknown-unknown/release` directory.
 
 ## Step 5: Interact with Your Contract on Vara Network
 
-15. Access [Gear IDE](https://idea.gear-tech.io/programs?node=wss%3A%2F%2Frpc.vara.network) using your web browser.
-16. Connect your Substrate wallet to Gear IDE.
+14. To interact with the IDEA gear and deploy your contract, you will need to download a wallet extension such as [Polkadot-JS](https://polkadot.js.org/extension/), [Talisman](https://talisman.xyz/), or [Subwallet](https://subwallet.app/) to interact with Substrate-based chains.
+
+<div align="center">
+  <img src="https://polkadot.js.org/extension/extension-overview.png" alt="Polkadot-JS Extension">
+</div>
+
+15. Access [Gear IDEA](https://idea.gear-tech.io/programs?node=wss%3A%2F%2Frpc.vara.network) using your web browser.
+
+<div align="center">
+  <img src="https://hackernoon.imgix.net/images/77WjQmBCAIQ7dyhZ22Bkui5QTrb2-6n92fqm.jpeg" alt="Gear Protocol">
+</div>
+
+16. Connect your Substrate wallet to Gear IDEA.
 17. Upload the `hello-world.opt.wasm` file by clicking the "Upload Program" button.
 18. Write a message and interact with your first "Hello World" program on Vara Network.
-19. You just need a Hex to ASCII Converter.
-
+19. You will need a Hex to ASCII Converter to properly format your messages. You can use this online [Hex to ASCII Converter](https://www.rapidtables.com/convert/number/hex-to-ascii.html).
 
 Congratulations! You have successfully deployed your first smart contract on Vara Network. Explore further and experiment with more complex smart contracts and decentralized applications to harness the full potential of Vara Network.
+
 ````
