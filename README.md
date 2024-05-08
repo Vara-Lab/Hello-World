@@ -164,5 +164,3 @@ Once the compilation is complete, locate the `hello-world.opt.wasm` file in the 
 
 Congratulations! You have successfully deployed your first smart contract on Vara Network. Explore further and experiment with more complex smart contracts and decentralized applications to harness the full potential of Vara Network.
 
-
-````
