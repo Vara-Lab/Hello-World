@@ -141,14 +141,13 @@ Once the compilation is complete, locate the `hello-world.opt.wasm` file in the 
 20. Sign the program uploading the transaction to the Gear network. After your message has been successfully processed, you are to see correspondent log messages.
 
 <div align="center">
-  <img src="https://wiki.gear-tech.io/assets/images/message-log-158efeb8c52fca9fcc080c40561c36df.png" alt="Signing Transaction">
+  <img src="https://wiki.gear-tech.io/assets/images/sign-transaction-f9ae773fdad49788a0e9894238ba5558.png" alt="Find Your Program">
 </div>
 
 21. Once your program is uploaded, head to the Programs section and find your program.
 
 <div align="center">
-  <!-- Considera cambiar esta imagen si no representa el paso de encontrar tu programa en la sección de programas -->
-  <img src="https://wiki.gear-tech.io/assets/images/sign-transaction-f9ae773fdad49788a0e9894238ba5558.png" alt="Find Your Program">
+  <img src="https://wiki.gear-tech.io/assets/images/message-log-158efeb8c52fca9fcc080c40561c36df.png" alt="Signing Transaction">
 </div>
 
 ## Step 7: Send a Message to a Program
