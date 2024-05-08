@@ -9,7 +9,7 @@ Welcome to the tutorial on deploying your first "Hello World" program on Vara Ne
 ## Step 1: Clone the Smart Contract Template
 
 1. Create a GitHub account if you don't have one already.
-2. Sign in to Gitpod using your GitHub account.
+2. Sign in to Gitpod using your GitHub account.[![Open in Gitpod]]( https://gitpod.io/new/#https://github.com/Vara-Lab/Hello-World.git)
 3. Create a new workspace on Gitpod using the following repository URL:
 
    ```bash
